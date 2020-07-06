@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Username", "1.Username\1.Username.csproj", "{6679670E-42CF-4B11-84C9-7449995E98E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Password", "2.Password\2.Password.csproj", "{E6660B8B-49FF-4BBA-A8EC-0032496AAF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Followers", "3.Followers\3.Followers.csproj", "{4CEC300B-6C49-4058-B9A2-0CEAAF6D3FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6679670E-42CF-4B11-84C9-7449995E98E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6679670E-42CF-4B11-84C9-7449995E98E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6679670E-42CF-4B11-84C9-7449995E98E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6679670E-42CF-4B11-84C9-7449995E98E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6660B8B-49FF-4BBA-A8EC-0032496AAF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6660B8B-49FF-4BBA-A8EC-0032496AAF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6660B8B-49FF-4BBA-A8EC-0032496AAF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6660B8B-49FF-4BBA-A8EC-0032496AAF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEC300B-6C49-4058-B9A2-0CEAAF6D3FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEC300B-6C49-4058-B9A2-0CEAAF6D3FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEC300B-6C49-4058-B9A2-0CEAAF6D3FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEC300B-6C49-4058-B9A2-0CEAAF6D3FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD8B8082-27CA-480C-AF30-C26F69CB9CF6}
+	EndGlobalSection
+EndGlobal

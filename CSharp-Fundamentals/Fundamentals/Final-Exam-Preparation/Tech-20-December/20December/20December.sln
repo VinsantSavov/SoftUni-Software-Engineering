@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.VaporWinterSale", "1.VaporWinterSale\1.VaporWinterSale.csproj", "{0977997D-5754-4852-ACAF-56F045BC1A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ActivationKeys", "2.ActivationKeys\2.ActivationKeys.csproj", "{345F4630-9955-498E-86F8-57B844BE7E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0977997D-5754-4852-ACAF-56F045BC1A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0977997D-5754-4852-ACAF-56F045BC1A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0977997D-5754-4852-ACAF-56F045BC1A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0977997D-5754-4852-ACAF-56F045BC1A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345F4630-9955-498E-86F8-57B844BE7E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F4630-9955-498E-86F8-57B844BE7E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F4630-9955-498E-86F8-57B844BE7E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F4630-9955-498E-86F8-57B844BE7E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCBA59E-9AC8-48FC-8578-CDF1894F93BF}
+	EndGlobalSection
+EndGlobal

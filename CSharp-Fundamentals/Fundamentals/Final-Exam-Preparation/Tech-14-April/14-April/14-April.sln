@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TheIsleOfMan", "1.TheIsleOfMan\1.TheIsleOfMan.csproj", "{484691EF-6358-4B78-8BAB-432520E5D5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PracticeSessions", "2.PracticeSessions\2.PracticeSessions.csproj", "{4280D6D0-70F4-4C2D-8E43-5BE40DC0CABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484691EF-6358-4B78-8BAB-432520E5D5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484691EF-6358-4B78-8BAB-432520E5D5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484691EF-6358-4B78-8BAB-432520E5D5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484691EF-6358-4B78-8BAB-432520E5D5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4280D6D0-70F4-4C2D-8E43-5BE40DC0CABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4280D6D0-70F4-4C2D-8E43-5BE40DC0CABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4280D6D0-70F4-4C2D-8E43-5BE40DC0CABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4280D6D0-70F4-4C2D-8E43-5BE40DC0CABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DCB8EA-81C1-4350-A7F2-D386F9114B73}
+	EndGlobalSection
+EndGlobal
