@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:VinsantSavov/SoftUni-Software-Engineering.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	puttykeyfile = "C:\\Users\\132\\Desktop\\C# projects\\PuttyGenKeyFile.ppk"
