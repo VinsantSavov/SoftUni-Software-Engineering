@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{1D78EFA0-5CE0-4E0D-BC41-901FFB3E492E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{4FC24DF7-245B-42BB-A625-E495DCCE5203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{71D2809F-E11A-4247-ADFB-1139ECEBFDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D78EFA0-5CE0-4E0D-BC41-901FFB3E492E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D78EFA0-5CE0-4E0D-BC41-901FFB3E492E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D78EFA0-5CE0-4E0D-BC41-901FFB3E492E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D78EFA0-5CE0-4E0D-BC41-901FFB3E492E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC24DF7-245B-42BB-A625-E495DCCE5203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC24DF7-245B-42BB-A625-E495DCCE5203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC24DF7-245B-42BB-A625-E495DCCE5203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC24DF7-245B-42BB-A625-E495DCCE5203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D2809F-E11A-4247-ADFB-1139ECEBFDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D2809F-E11A-4247-ADFB-1139ECEBFDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D2809F-E11A-4247-ADFB-1139ECEBFDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D2809F-E11A-4247-ADFB-1139ECEBFDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B774D9F-CBB4-4785-8DF3-7ED5B9B8CFC9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TrojanInvasion", "1.TrojanInvasion\1.TrojanInvasion.csproj", "{9ECC43E0-64B7-4AB9-A818-72B2AD36F658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.HelensAbduction", "P02.HelensAbduction\P02.HelensAbduction.csproj", "{86D27707-0353-49D3-B408-1505D6DF9899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECC43E0-64B7-4AB9-A818-72B2AD36F658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECC43E0-64B7-4AB9-A818-72B2AD36F658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECC43E0-64B7-4AB9-A818-72B2AD36F658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECC43E0-64B7-4AB9-A818-72B2AD36F658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D27707-0353-49D3-B408-1505D6DF9899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D27707-0353-49D3-B408-1505D6DF9899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D27707-0353-49D3-B408-1505D6DF9899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D27707-0353-49D3-B408-1505D6DF9899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2202A57F-693F-432F-A58E-1A03C6B30EC7}
+	EndGlobalSection
+EndGlobal
