@@ -71,6 +71,6 @@ function solve() {
     const totalPrice = boughtItems.reduce((acc, c) => acc += c.price, 0);
     const averageFactor = boughtItems.reduce((acc, c) => acc += c.dec, 0) / boughtItems.length;
 
-    resultArea.value = `Bought furniture: ${boughtFurniture}\nTotal price: ${totalPrice.toFixed(2)}\nAverage decoration factor: ${averageFactor}\n`;
+    resultArea.value = `Bought furniture: ${boughtFurniture}\nTotal price: ${totalPrice.toFixed(2)}\nAverage decoration factor: ${averageFactor}`;
   }
 }

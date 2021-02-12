@@ -1,8 +1,14 @@
 function add(a){
-    let sum = a;
-    return (b) =>{
-        return sum += b;
+    let sum = 0;
+    sum += a;
+    calc.toString = () => sum;
+    
+    return calc;
+
+    function calc(num){
+        sum += num;
+        return calc;
     }
 }
 
-console.log(add(1)(6)(-3));
+console.log(add(1).toString());
