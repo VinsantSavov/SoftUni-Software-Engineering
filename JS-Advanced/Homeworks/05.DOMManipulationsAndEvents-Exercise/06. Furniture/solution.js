@@ -7,6 +7,7 @@ function solve() {
 
   function onGenerate(){
     const items = JSON.parse(textarea.value);
+    textarea.value = '';
 
     for(let item of items){
       const tr = document.createElement('tr');
@@ -49,7 +50,7 @@ function solve() {
   function onBuy(){
     const boughtItems = [];
 
-    for(let row of tableBody.children){
+    for(let row of Array.from(tableBody.children)){
       if(row.children[4].children[0].checked === true){
         const cols = row.querySelectorAll('td > p');
 

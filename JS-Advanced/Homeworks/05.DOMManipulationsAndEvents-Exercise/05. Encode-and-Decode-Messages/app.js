@@ -7,16 +7,19 @@ function encodeAndDecodeMessages() {
 
     function encodeAndSend(ev){
         let text = sendTextArea.value;
-        let encoded = '';
 
-        for(let symbol of text){
-            let ascii = symbol.charCodeAt(0) + 1;
-            encoded += String.fromCharCode(ascii);
+        if(text != ''){
+            let encoded = '';
+
+            for(let symbol of text){
+                let ascii = symbol.charCodeAt(0) + 1;
+                encoded += String.fromCharCode(ascii);
+            }
+    
+            sendTextArea.value = '';
+            receiveTextArea.value = encoded;
+            receiveTextArea.parentNode.children[2].disabled = false;
         }
-
-        sendTextArea.value = '';
-        receiveTextArea.value = encoded;
-        receiveTextArea.parentNode.children[2].disabled = false;
     }
 
     function decodeAndRead(ev){
